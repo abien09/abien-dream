@@ -4,10 +4,20 @@ RENCANA N9NEE.CO
   * kerja
 - design baju oke sesuai jaman
   * streetwear
+   < baju
+   < celana
+   < kemeja
+   < jaket
+   < celana pendek
 - bangun website
   * belajar vibe coding
+   < ai agent
+   < melatih alur vibe coding
   * bangun website yang benar benar modern
 - perdalam laravel
   * pelajarin detail detail laravel
+   < API
+   < element yang belum di ketahui
 - coba javascript
-  * nyobain framework laravel
+  * nyobain framework javascript
+   < react.js
