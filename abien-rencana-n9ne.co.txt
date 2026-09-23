@@ -6,6 +6,7 @@ RENCANA N9NEE.CO
   * streetwear
 - bangun website
   * belajar vibe coding
+  * bangun website yang benar benar modern
 - perdalam laravel
   * pelajarin detail detail laravel
 - coba javascript
