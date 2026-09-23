@@ -2,12 +2,22 @@ RENCANA N9NEE.CO
 
 - kumpulin dana sebanyak banyaknya
   * kerja
+    > mencari pengalaman 
+    > mencari uang
+    > memperbanyak relasi
 - design baju oke sesuai jaman
   * streetwear
+    > graffiti
+    > clear outfit tapi nakal
+    > cuttingan kece
 - bangun website
   * belajar vibe coding
+    > belajar bahasa inggris untuk promt yang lebih maksimal
   * bangun website yang benar benar modern
 - perdalam laravel
   * pelajarin detail detail laravel
+    > pelajari ulang php native supaya ngerti alur code ai nya
 - coba javascript
-  * nyobain framework laravel
+  * nyobain framework javascript
+    > pelajari lebih lanjut tentang react, bagaimana cara kerja nya
+    > membandingkan react.js - javascript = laravel - php
