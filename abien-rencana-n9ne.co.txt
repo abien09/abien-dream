@@ -21,3 +21,20 @@ RENCANA N9NEE.CO
   * nyobain framework javascript
     > pelajari lebih lanjut tentang react, bagaimana cara kerja nya
     > membandingkan react.js - javascript = laravel - php
+   < baju
+   < celana
+   < kemeja
+   < jaket
+   < celana pendek
+- bangun website
+  * belajar vibe coding
+   < ai agent
+   < melatih alur vibe coding
+  * bangun website yang benar benar modern
+- perdalam laravel
+  * pelajarin detail detail laravel
+   < API
+   < element yang belum di ketahui
+- coba javascript
+  * nyobain framework javascript
+   < react.js
