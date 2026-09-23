@@ -1,0 +1,7 @@
+RENCANA N9NEE.CO
+
+- kumpulin dana sebanyak banyaknya
+- design baju oke sesuai jaman
+- bangun website
+- perdalam laravel
+- coba javascript
