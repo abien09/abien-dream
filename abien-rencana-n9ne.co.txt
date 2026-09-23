@@ -1,7 +1,12 @@
 RENCANA N9NEE.CO
 
 - kumpulin dana sebanyak banyaknya
+  * kerja
 - design baju oke sesuai jaman
+  * streetwear
 - bangun website
+  * belajar vibe coding
 - perdalam laravel
+  * pelajarin detail detail laravel
 - coba javascript
+  * nyobain framework laravel
